@@ -1,0 +1,15 @@
+# Archivos del sistema
+.DS_Store
+
+# Rider
+.idea/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+
+# Compilación
+bin/
+obj/

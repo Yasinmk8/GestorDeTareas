@@ -1,0 +1,1 @@
+Funcionalidad Windows Forms desarrollada en esta rama: chkPrioridadAlta.
