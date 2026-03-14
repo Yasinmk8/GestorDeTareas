@@ -147,7 +147,7 @@
             this.chkPrioridadAlta.Name = "chkPrioridadAlta";
             this.chkPrioridadAlta.Size = new System.Drawing.Size(87, 17);
             this.chkPrioridadAlta.TabIndex = 11;
-            this.chkPrioridadAlta.Text = "Prioridad alta";
+            this.chkPrioridadAlta.Text = "Prioridad alta activada";
             this.chkPrioridadAlta.UseVisualStyleBackColor = true;
             // 
             // cmbCategoria
