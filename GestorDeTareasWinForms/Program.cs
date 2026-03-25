@@ -9,7 +9,7 @@ namespace GestorDeTareasWinForms
     internal static class Program
     {
         /// <summary>
-        /// Funcionalidad de login implementada.
+/// Funcionalidades de login y registro implementadas.
         /// </summary>
         [STAThread]
         static void Main()
