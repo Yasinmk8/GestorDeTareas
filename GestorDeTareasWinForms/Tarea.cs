@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace GestorDeTareasWinForms
 {
@@ -17,9 +18,12 @@ namespace GestorDeTareasWinForms
         // Indica si la tarea está completada o no
         public bool Completada { get; set; }
 
-        // Devuelve el texto que se mostrará en la lista
         public bool PrioridadAlta { get; set; }
         public string Categoria { get; set; }
+
+        public List<string> Etiquetas { get; set; } = new List<string>();
+
+        // Devuelve el texto que se mostrará en la lista
         public override string ToString()
         {
             string estado = Completada ? "Completada" : "Pendiente";
